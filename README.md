@@ -1,3 +1,5 @@
-# Issue Tracker für Trintel
+# Issue Tracker ist umgezogen
 
-Gehe oben auf den Tab 'Issues' und reporte deinen Fehler.
+Der Issue Tracker ist jetzt hier zu finden: https://github.com/trintel/trintel/issues
+
+
